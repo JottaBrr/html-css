@@ -15,7 +15,7 @@ header {
     padding-top: 30px;
     margin: auto;
     padding: 30px;
-    padding-bottom: 60px;
+    padding-bottom: 80px;
 }
 
 header>h1 {
@@ -80,6 +80,7 @@ main h1 {
     text-transform: uppercase;
     color: #00ccff;
     font-family: cursive;
+    font-weight: bolder;
 }
 
 
@@ -128,7 +129,7 @@ aside h3 {
 aside ul {
     list-style-position: inside;
     columns: 2;
-    padding-left: 30px;
+    padding-left: 20px;
 }
 
 abbr {
