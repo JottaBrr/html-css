@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body {
+    background-color: antiquewhite;
+}
+
+  h1 {
+    color: black;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: normal;
+    text-shadow: 10px;
+  }
+  h2 {
+    color: blue;
+  }
+  p {
+    color: red;
+    text-align: justify;
+    line-height: normal;
+    font-weight: bold;
+    font-size: larger;
+    font-style: italic;
+  }
+  a {
+        color: rgb(153, 0, 255);
+  }

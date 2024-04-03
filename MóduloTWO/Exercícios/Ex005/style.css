@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+a {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+}
+a:visited {
+    color: darkred;
+}
+a:hover {
+    color: blue;
+    text-transform: uppercase;
+}
+a:active {
+    color: aqua;
+}
+.esp:after {
+    content: " (LINK)";
+}
+

@@ -1,0 +1,55 @@
+@charset "UTF-8";
+body {
+    background-color: gainsboro;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.486);
+}
+
+nav {
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.486);
+}
+
+a {
+    color: red;
+    font-weight: bold;
+    margin-right: 20px;
+    text-decoration: dotted;
+}
+
+a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+main {
+    background-color: white;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.486);
+}
+
+article {
+    background-color: rgb(233, 233, 233);
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.486);
+}
+article > aside {
+    background-color: rgb(179, 179, 179);
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+}

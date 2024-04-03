@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(93, 0, 168);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(210, 255, 0);
+}
+
+h1#seta {
+    color: rgb(210, 255, 0);
+}
+
+.aprendendo {
+    color: white;
+    font-size: 2em;
+
+}
+
+.basico {
+    color: rgb(0, 255, 242);
+    font-size: 1.3em;
+}
+
+
+.avançado {
+    color: rgb(255, 0, 0);
+    font-size: 1.3em;
+}
+
+p {
+    color: white;
+}
